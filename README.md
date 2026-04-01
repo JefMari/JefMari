@@ -17,7 +17,7 @@ An Open source enthusiast that continuously, learning new stuffs ✨.
 ### Tech Stack
 
 <p>
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=claudeai,githubcopilot,npm,pnpm,bun,docker,github,visualstudiocode,vite,vitepwa,vitest,vuejs,vueuse,vuepress,vitepress,nuxtjs,reactjs,reactquery,reactrouter,angularjs,astro,tailwindcss,bootstrap" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=claudeai,githubcopilot,npm,pnpm,bun,docker,github,vercel,visualstudiocode,vite,vitepwa,vitest,vuejs,vueuse,vuepress,vitepress,nuxtjs,reactjs,reactquery,reactrouter,angularjs,astro,tailwindcss,bootstrap,slidev" />
 </p>
 
 📈 **My GitHub Stats and Metrics:**
